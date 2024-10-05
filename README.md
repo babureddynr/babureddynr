@@ -8,12 +8,11 @@
 - 🌱 Eager to learn and contribute to innovative and dynamic tech environments.
 - 🌍 Based in **Srinivaspur, Kolar, India**.
 - 📫 How to reach me: **[babunrnr5@gmail.com](mailto:babunrnr5@gmail.com)**.
-
 ---
 
-### 🔧 Skills & Tools
+###   Skills & Tools
 
-#### Languages & Frameworks
+#### Programming Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -26,9 +25,22 @@
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-1E4A5F?style=for-the-badge&logo=apache&logoColor=white)
 
-#### Version Control
+#### Creative Skills
+![CapCut](https://img.shields.io/badge/CapCut-%23FFC0CB?style=for-the-badge&logo=CapCut&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-005AF0?style=for-the-badge&logo=adobe&logoColor=white)
+![InShot](https://img.shields.io/badge/InShot-007BFF?style=for-the-badge&logo=inShot&logoColor=white)
+![Pixlr](https://img.shields.io/badge/Pixlr-1D365D?style=for-the-badge&logo=Pixlr&logoColor=white)
+![KineMaster](https://img.shields.io/badge/KineMaster-FC17E3?style=for-the-badge&logo=KineMaster&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-E95420?style=for-the-badge&logo=youtube&logoColor=red)
+![Photo Editing](https://img.shields.io/badge/Photo_Editing-F79316?style=for-the-badge&logo=adobe&logoColor=black) 
+
+#### Other Skills
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C Language](https://img.shields.io/badge/C-159CFF?style=for-the-badge&logo=c&logoColor=white)
+![Script Writing](https://img.shields.io/badge/Script_Writing-7FDBBF?style=for-the-badge&logo=fonticons&logoColor=white)
+![OS](https://img.shields.io/badge/OS-007BFF?style=for-the-badge&logo=linux&logoColor=white) 
+![Remini](https://img.shields.io/badge/Remini-FFD700?style=for-the-badge&logo=Remini&logoColor=black)
 
 ---
 
