@@ -8,10 +8,7 @@
 - 🌱 Eager to learn and contribute to innovative and dynamic tech environments.
 - 🌍 Based in **Srinivaspur, Kolar, India**.
 - 📫 How to reach me: **[babunrnr5@gmail.com](mailto:babunrnr5@gmail.com)**.
-
-
 ---
-
 ### 🔧 Skills & Tools
 
 #### Languages & Frameworks
