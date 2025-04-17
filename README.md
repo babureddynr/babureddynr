@@ -57,7 +57,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### Employee Management System with Thymeleaf
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRtazB2N3NoODRvM3J5NTJ0MzBmeWR2aGZ1Z2U0aG5qbjJxOGNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo55UzK/giphy.gif" alt="Employee Management" width="500px">
 </div>
 
 > A comprehensive Employee Management System that streamlines and automates employee information with a clean, user-friendly interface.
@@ -83,7 +82,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### College Management System
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4M2JrMXdpbWN3eHlkODd3dnVrbXF2dnRwcGZ2YjVjMmF0YWliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc0GqfddNQAe1q/giphy.gif" alt="College Management System" width="500px">
 </div>
 
 > A software platform that streamlines and automates academic and administrative tasks, including student information management and course registration.
@@ -109,7 +107,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### Employee Management System
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ3Nmlnbm1tbmQ5NmE3aDZxZGY3a29xMGp6eWxpOGhuamJ0ZzJkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Employee Management System" width="500px">
 </div>
 
 > A complete Employee Management System built with Spring Boot, including CRUD operations, REST APIs, and a frontend interface using Bootstrap and JavaScript.
@@ -135,7 +132,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### To-Do List Application
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUyenZsYzhlbXkxbTl2c2wzZGdvczNlYnV3ajlkdmQzNXlzYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufnwz3wDUli7GU0/giphy.gif" alt="To-Do List Application" width="500px">
 </div>
 
 > A simple yet powerful To-Do Management System built using Spring Boot for the back-end, and basic HTML, CSS, and JavaScript for the front-end.
