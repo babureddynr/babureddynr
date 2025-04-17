@@ -57,6 +57,7 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
+  
 # 🚀 Featured Projects  
 
 <div align="center">  
