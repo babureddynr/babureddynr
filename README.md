@@ -50,13 +50,9 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 </div>
 
-## 🏆 Projects Portfolio
+## 🏆 Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150px">
-</div>
-
-<details open>
+<details>
 <summary><b>🧔 Men Salon Management System</b></summary>
 <br>
 <div align="center">
@@ -76,140 +72,6 @@ A comprehensive system designed to streamline salon operations with an intuitive
 **Role:** Full-stack developer leading design, development, and testing phases
 
 **Outcome:** Solution praised for its intuitive interface and comprehensive functionality
-</details>
-
-<details>
-<summary><b>🌐 Personal Portfolio Website</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px">
-</div>
-
-A responsive portfolio website to showcase my skills, projects, and professional journey.
-
-**Key Features:**
-- 🎨 Modern UI/UX design with smooth animations
-- 📱 Fully responsive across all devices
-- 🔍 SEO optimized content structure
-- 📊 Integrated analytics to track visitor engagement
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-
-**Role:** Designer and developer
-
-**Outcome:** Professional online presence that effectively highlights my capabilities and achievements
-</details>
-
-<details>
-<summary><b>🏥 Hospital Management System</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
-</div>
-
-A comprehensive web application to streamline hospital operations and improve patient care.
-
-**Key Features:**
-- 👨‍⚕️ Doctor appointment scheduling and management
-- 📋 Patient records management with medical history
-- 💊 Pharmacy inventory and medication tracking
-- 💰 Billing and insurance claim processing
-
-**Tech Stack:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
-
-**Role:** Lead developer responsible for backend architecture and database design
-
-**Outcome:** System significantly reduced administrative workload and improved patient experience
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce Platform</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9DPDhKz0CXJlBWWQ/giphy.gif" width="300px">
-</div>
-
-A feature-rich online shopping platform with secure payment processing.
-
-**Key Features:**
-- 🔍 Advanced product search and filtering
-- 🛍️ Shopping cart and wishlist functionality
-- 💳 Secure payment gateway integration
-- 📦 Order tracking and management
-- ⭐ Customer review and rating system
-
-**Tech Stack:** Java, Spring MVC, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap
-
-**Role:** Full-stack developer with focus on backend services and payment integration
-
-**Outcome:** Platform received positive feedback for its user experience and transaction security
-</details>
-
-<details>
-<summary><b>📝 Student Management System</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="300px">
-</div>
-
-A comprehensive system for educational institutions to manage student data and academic processes.
-
-**Key Features:**
-- 👨‍🎓 Student enrollment and profile management
-- 📚 Course registration and scheduling
-- 📊 Grade tracking and report generation
-- 💰 Fee management and payment tracking
-- 📢 Announcement and notification system
-
-**Tech Stack:** Java, Spring Boot, Hibernate, MySQL, Thymeleaf, Bootstrap
-
-**Role:** Backend developer responsible for data modeling and business logic implementation
-
-**Outcome:** System successfully implemented at local educational institutions with positive feedback
-</details>
-
-<details>
-<summary><b>🎮 Snake Game</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="300px">
-</div>
-
-A classic Snake game with modern features and responsive controls.
-
-**Key Features:**
-- 🎮 Intuitive keyboard and touch controls
-- 🏆 High score tracking
-- 🌈 Customizable snake appearance
-- 🔊 Sound effects and background music
-
-**Tech Stack:** HTML5, CSS3, JavaScript
-
-**Role:** Game developer
-
-**Outcome:** Engaging game that demonstrates front-end development skills and game logic implementation
-</details>
-
-<details>
-<summary><b>☁️ Weather Application</b></summary>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif" width="300px">
-</div>
-
-A weather forecast application providing real-time weather updates and forecasts.
-
-**Key Features:**
-- 🌍 Location-based weather data
-- 📅 5-day weather forecast
-- 🌡️ Temperature, humidity, and wind information
-- 🌦️ Visual weather condition indicators
-
-**Tech Stack:** HTML, CSS, JavaScript, Weather API integration
-
-**Role:** Frontend developer and API integration specialist
-
-**Outcome:** User-friendly application delivering accurate weather information with clean visualization
 </details>
 
 ## 📚 Education Journey
@@ -241,7 +103,6 @@ A weather forecast application providing real-time weather updates and forecasts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/babu-reddy-nr-40a0b02b9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babunrnr5@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reddy._.drew?igsh=aDZ1N3kxYnE0bDRz&utm_source=qr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://babureddy.xyz)
 
 </div>
 
