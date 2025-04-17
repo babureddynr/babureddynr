@@ -1,14 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A6EBD&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Babu+Reddy+NR;Full-Stack+Developer;Java+%26+Web+Enthusiast" alt="Typing SVG" />
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=babureddynr&label=Profile%20Views&color=0A6EBD&style=for-the-badge" alt="Profile Views" />
-    <a href="https://github.com/babureddynr">
-      <img src="https://img.shields.io/github/followers/babureddynr?style=for-the-badge&logo=github&color=0A6EBD" alt="GitHub followers" />
-    </a>
-  </p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=babureddynr&style=for-the-badge&color=0A6EBD)
+  [![GitHub followers](https://img.shields.io/github/followers/babureddynr?style=for-the-badge&logo=github&color=0A6EBD)](https://github.com/babureddynr)
 </div>
-
 ## 🚀 About Me
 
 > *"Transforming ideas into functional, elegant digital experiences"*
