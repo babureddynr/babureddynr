@@ -62,7 +62,7 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 </div>
 🚀 Featured Projects
 <div align="center">
-<img src="https://media.giphy.com/media/3o6nV6PzXmkZZMkOxo/giphy.gif" alt="Coding Projects" width="60%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkcHpldDdsY3NpeDNmYzVrcHo0cmQ5M283enF0NnVpYmJ1MHBnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Projects" width="60%">
 </div>
 
 ### Employee Management System with Thymeleaf
