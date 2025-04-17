@@ -241,6 +241,7 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 <div align="center">
   <p>Feel free to reach out if you'd like to collaborate on a project or have any questions!</p>
 </div>
+
 ## 📚 Education Journey
 
 <div align="center">
