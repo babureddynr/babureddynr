@@ -10,11 +10,6 @@
   </a>
 </p>
 
-</div>  
-  ![Profile Views](https://komarev.com/ghpvc/?username=babureddynr&style=for-the-badge&color=0A6EBD)
-  [![GitHub followers](https://img.shields.io/github/followers/babureddynr?style=for-the-badge&logo=github&color=0A6EBD)](https://github.com/babureddynr)
-</div>
-
 ## 🚀 About Me
 
 > *"Transforming ideas into functional, elegant digital experiences"*
