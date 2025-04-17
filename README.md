@@ -236,19 +236,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
   <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
 </div>
 
-## 📬 Contact Me
-
-<div align="center">
-  <a href="mailto:babunrnr5@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/babu-reddy-nr-40a0b02b9">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/babureddynr">
-    <img src="https://img.shields.io/badge/Follow-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
 
 <div align="center">
   <p>Feel free to reach out if you'd like to collaborate on a project or have any questions!</p>
