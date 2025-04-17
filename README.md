@@ -49,31 +49,210 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+## 🚀 Featured Projects
 
-## 🏆 Projects
-
-<details>
-<summary><b>🧔 Men Salon Management System</b></summary>
-<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPeSlkkwh3Pt6A8/giphy.gif" width="300px">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
 </div>
 
-A comprehensive system designed to streamline salon operations with an intuitive interface.
+### Employee Management System with Thymeleaf
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRtazB2N3NoODRvM3J5NTJ0MzBmeWR2aGZ1Z2U0aG5qbjJxOGNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo55UzK/giphy.gif" alt="Employee Management" width="500px">
+</div>
+
+> A comprehensive Employee Management System that streamlines and automates employee information with a clean, user-friendly interface.
 
 **Key Features:**
-- 💈 Smart appointment scheduling with reminder notifications
-- 👨‍💼 Staff management with performance tracking
-- 📊 Inventory control and usage analytics
-- 💰 Integrated payment processing and loyalty program
+- 👤 Complete employee profile management
+- 📊 Employee performance tracking
+- 📁 Department organization 
+- 🔒 Role-based access control
 
-**Tech Stack:** HTML, CSS, JavaScript, Java, MySQL
+**Tech Stack:** HTML, CSS, JavaScript, Thymeleaf, Java, Spring Boot, MySQL
 
-**Role:** Full-stack developer leading design, development, and testing phases
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/empthymleaf.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/Student-Management-System---Spring-Boot-CRUD?tab=readme-ov-file" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
 
-**Outcome:** Solution praised for its intuitive interface and comprehensive functionality
-</details>
+---
 
+### College Management System
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4M2JrMXdpbWN3eHlkODd3dnVrbXF2dnRwcGZ2YjVjMmF0YWliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc0GqfddNQAe1q/giphy.gif" alt="College Management System" width="500px">
+</div>
+
+> A software platform that streamlines and automates academic and administrative tasks, including student information management and course registration.
+
+**Key Features:**
+- 🎓 Student enrollment and records management
+- 📚 Course catalog and registration system
+- 👨‍🏫 Faculty management and scheduling
+- 💰 Fee management and payment tracking
+
+**Tech Stack:** HTML, CSS, JavaScript, Java, Spring Boot, MySQL
+
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/College-Management-System?tab=readme-ov-file" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
+
+---
+
+### Employee Management System
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ3Nmlnbm1tbmQ5NmE3aDZxZGY3a29xMGp6eWxpOGhuamJ0ZzJkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Employee Management System" width="500px">
+</div>
+
+> A complete Employee Management System built with Spring Boot, including CRUD operations, REST APIs, and a frontend interface using Bootstrap and JavaScript.
+
+**Key Features:**
+- 👥 Employee database with comprehensive profiles
+- 🔄 Full CRUD functionality with intuitive UI
+- 📱 Responsive design for all devices
+- 🔌 RESTful API architecture
+
+**Tech Stack:** HTML, CSS, JavaScript, Java, Spring Boot, MySQL
+
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/employee.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/employee-management-system-springboot?tab=readme-ov-file" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
+
+---
+
+### To-Do List Application
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUyenZsYzhlbXkxbTl2c2wzZGdvczNlYnV3ajlkdmQzNXlzYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufnwz3wDUli7GU0/giphy.gif" alt="To-Do List Application" width="500px">
+</div>
+
+> A simple yet powerful To-Do Management System built using Spring Boot for the back-end, and basic HTML, CSS, and JavaScript for the front-end.
+
+**Key Features:**
+- ✅ Task creation and management
+- 🗂️ Task categorization and filtering
+- 🔔 Due date reminders
+- 📱 Mobile-friendly interface
+
+**Tech Stack:** HTML, CSS, JavaScript, Java, Spring Boot, MySQL
+
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/todo.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/To-Do-Management-System-Spring-Boot-HTML-CSS-" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
+
+---
+
+### Student Management System
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ6ZHU3Z2drc2hvdWRleXNua3p5bDl2MTlscXlnd3djZmZ4Zmx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChALa8CJzbWKGY/giphy.gif" alt="Student Management System" width="500px">
+</div>
+
+> This project demonstrates a simple CRUD application for managing students using Java, Spring Boot, and MySQL.
+
+**Key Features:**
+- 👨‍🎓 Student registration and profile management
+- 📊 Performance tracking and grading system
+- 📝 Attendance management
+- 🔍 Advanced search and filtering capabilities
+
+**Tech Stack:** HTML, CSS, JavaScript, Spring Boot, MySQL
+
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/studentmgtnikitash.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/Student-Management-System---Spring-Boot-CRUD" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
+
+---
+
+### Men Salon Management System
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpodDJ5NmdkeXQ5YTZ5OTRqZThoZGJxNWI5OWN6cGh3eHFrNGV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ6EiK2RyhlnO0/giphy.gif" alt="Men Salon Management System" width="500px">
+</div>
+
+> A comprehensive system for managing salon operations, appointments, and customer data designed for barbershops and men's salons.
+
+**Key Features:**
+- 💈 Appointment scheduling and management
+- 👨‍💼 Staff scheduling and performance tracking
+- 💰 Billing and payment processing
+- 📊 Sales and inventory analytics
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+<div align="center">
+  <a href="MEN-SALON-MANAGENT-SYSTEM-REPORT.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
+  </a>
+</div>
+
+---
+
+### Cool Pizza Website Clone
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpzMWQwM3p5cnphdGdmdWVvMXpuZHphNmIxeXEzc3B0OWlyMnQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vy3Qu6dFvgX1S8zcfQ/giphy.gif" alt="Cool Pizza Website Clone" width="500px">
+</div>
+
+> 🍕 A responsive and visually appealing Cool Pizza website clone created with modern web technologies.
+
+**Key Features:**
+- 🍕 Interactive menu with beautiful food photography
+- 🛒 Shopping cart functionality
+- 📱 Fully responsive design
+- 🎨 Engaging animations and transitions
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+<div align="center">
+  <a href="https://babureddynr.github.io/spring-html-pages/pizza1.html" target="_blank">
+    <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo">
+  </a>
+  <a href="https://github.com/babureddynr/Cool-Pizza-Website-Clone---HTML-CSS" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
+</div>
+
+## 📬 Contact Me
+
+<div align="center">
+  <a href="mailto:babunrnr5@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/babu-reddy-nr-40a0b02b9">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/babureddynr">
+    <img src="https://img.shields.io/badge/Follow-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<div align="center">
+  <p>Feel free to reach out if you'd like to collaborate on a project or have any questions!</p>
+</div>
 ## 📚 Education Journey
 
 <div align="center">
