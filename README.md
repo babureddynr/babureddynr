@@ -49,7 +49,7 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-## 🚀 Featured Projects
+
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
