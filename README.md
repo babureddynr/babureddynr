@@ -114,5 +114,5 @@ A comprehensive system designed to streamline salon operations with an intuitive
   
   ### Thanks for visiting my profile! 👋
   
-  ![Visitor Count](https://profile-counter.glitch.me/babureddynr/count.svg)
+
 </div>
