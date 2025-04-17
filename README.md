@@ -63,7 +63,7 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkcHpldDdsY3NpeDNmYzVrcHo0cmQ5M283enF0NnVpYmJ1MHBnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Projects" width="60%">  
 
   ### 🌐 **Explore More on My Website**  
-  [![Website](https://img.shields.io/badge/Visit-babureddynt.xyz-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://babureddynt.xyz)  
+  [![Website](https://img.shields.io/badge/Visit-babureddynt.xyz-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://babureddynr.xyz)  
   *✨ Click above to see my portfolio, blogs, and more! ✨*  
 
 </div>  
