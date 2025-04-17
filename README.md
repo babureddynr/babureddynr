@@ -157,7 +157,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### Student Management System
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ6ZHU3Z2drc2hvdWRleXNua3p5bDl2MTlscXlnd3djZmZ4Zmx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChALa8CJzbWKGY/giphy.gif" alt="Student Management System" width="500px">
 </div>
 
 > This project demonstrates a simple CRUD application for managing students using Java, Spring Boot, and MySQL.
@@ -183,7 +182,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### Men Salon Management System
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpodDJ5NmdkeXQ5YTZ5OTRqZThoZGJxNWI5OWN6cGh3eHFrNGV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ6EiK2RyhlnO0/giphy.gif" alt="Men Salon Management System" width="500px">
 </div>
 
 > A comprehensive system for managing salon operations, appointments, and customer data designed for barbershops and men's salons.
@@ -206,7 +204,6 @@ I'm a **Computer Applications Graduate** passionate about building web applicati
 
 ### Cool Pizza Website Clone
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpzMWQwM3p5cnphdGdmdWVvMXpuZHphNmIxeXEzc3B0OWlyMnQxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vy3Qu6dFvgX1S8zcfQ/giphy.gif" alt="Cool Pizza Website Clone" width="500px">
 </div>
 
 > 🍕 A responsive and visually appealing Cool Pizza website clone created with modern web technologies.
